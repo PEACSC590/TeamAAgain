@@ -141,9 +141,11 @@ public class sp2 {
 		         System.out.printf("%5d ", ar[i][j]);
 		      }
 		      System.out.println();
+		      //h
+		      
 		   }
 		
-		
+		System.out.println("f");
 	}
 	
 	
